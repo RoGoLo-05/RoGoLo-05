@@ -6,7 +6,6 @@
 
 #### Experiencias y habilidades
 🌱 *Desarrollo Web*: Tengo experiencia en el desarrollo de aplicaciones web utilizando tecnologías como HTML, CSS y JavaScript.
-
 🌱 *Desarrollo Multiplataforma*: Tengo experiencia en el desarrollo de aplicaciones multiplataforma utilizando tecnologías como Java.
 ⚡ *Bases de datos*: Tengo conocimientos de SQL y experiencia en el desarrollo de aplicaciones utilizando bases de datos MySQL.
 😄 *Entornos de Desarrollo*: Utilizo tanto Eclipse como VSCode como entornos de desarrollo integrados (IDE) para mis proyectos.
