@@ -1,5 +1,5 @@
 ## Hola, soy Roberto 👋
-### Estudiante de Desarrollo de Aplicaciones Web (DAW)
+### Desarrollador Full Stack
 
 
 #### Sobre mí
