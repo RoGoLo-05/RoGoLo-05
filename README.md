@@ -3,7 +3,7 @@
 
 
 #### Sobre mí
-🔭 ¡Hola! Soy Roberto, desarrollador Fullstack. Me apasiona el mundo del desarrollo web y estoy constantemente aprendiendo y explorando nuevas tecnologías y técnicas para mejorar mis habilidades.
+🔭 ¡Hola! Soy Roberto, desarrollador Full Stack. Me apasiona el mundo del desarrollo web y estoy constantemente aprendiendo y explorando nuevas tecnologías y técnicas para mejorar mis habilidades.
 
 
 #### Experiencias y habilidades
