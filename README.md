@@ -1,37 +1,78 @@
-## Hola, soy Roberto 👋
+## 👋 ¡Hola, soy Roberto!
 ### Desarrollador Full Stack
 
+---
 
-#### Sobre mí
-🔭 ¡Hola! Soy Roberto, desarrollador Full Stack. Me apasiona el mundo del desarrollo web y estoy constantemente aprendiendo y explorando nuevas tecnologías y técnicas para mejorar mis habilidades.
+### 🧑‍💻 Sobre mí
+¡Hola! Soy Roberto, un apasionado del desarrollo web. Me encanta aprender nuevas tecnologías, experimentar con herramientas modernas y crear soluciones que aporten valor. Siempre estoy buscando nuevos retos que me ayuden a crecer como desarrollador.
 
+---
 
-#### Experiencias y habilidades
-🌱 *Desarrollo Web*: Tengo experiencia en el desarrollo de aplicaciones web utilizando tecnologías como HTML, CSS y JavaScript.
+### 🚀 Tecnologías y herramientas
 
-🌱 *Desarrollo Multiplataforma*: Tengo experiencia en el desarrollo de aplicaciones multiplataforma utilizando tecnologías como Java.
+#### 👨‍💻 Lenguajes de programación
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-⚡ *Bases de datos*: Tengo conocimientos de SQL y experiencia en el desarrollo de aplicaciones utilizando bases de datos MySQL.
+#### 🌐 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+</p>
 
-😄 *Entornos de Desarrollo*: Utilizo tanto Eclipse como VSCode como entornos de desarrollo integrados (IDE) para mis proyectos.
+#### ⚙️ Backend
+<p>
+  <img src="https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+</p>
 
-👯 *Git y GitHub*: Utilizo Git y GitHub para gestionar mis proyectos de desarrollo de software y colaborar con otros desarrolladores.
+#### 🗄️ Bases de datos
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
+#### ⚒️ Herramientas y plataformas
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" />
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
-#### Contacto
-📫 ¡Estoy abierto/a a colaboraciones, oportunidades de aprendizaje y proyectos interesantes! Si quieres ponerte en contacto conmigo, puedes enviarme un correo electrónico a [robertogomezlopez2005@gmail.com](robertogomezlopez2005@gmail.com) o encontrarme en LinkedIn [Roberto Gómez López](https://www.linkedin.com/in/roberto-gómez-lópez-72b0022a0/).
+#### 🎨 Diseño y productividad
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+</p>
 
-<!--
-**RoGoLo-05/RoGoLo-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 📦 Otros
+<p>
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contacto
+¡Estoy abierto a colaboraciones, oportunidades de aprendizaje y proyectos interesantes!  
+Puedes escribirme a [robertogomezlopez2005@gmail.com](mailto:robertogomezlopez2005@gmail.com)  
+O contactarme por [LinkedIn](https://www.linkedin.com/in/roberto-gómez-lópez-72b0022a0/)
+
+---
+
+<div align="center">
+  ¡Gracias por visitar mi perfil! 🌟
+</div>
