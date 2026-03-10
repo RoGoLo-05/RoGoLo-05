@@ -66,6 +66,17 @@
 
 ---
 
+### 📊 Estadísticas de GitHub
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=RobertoGomezLopez&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoGomezLopez&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
 ### 📫 Contacto
 ¡Estoy abierto a colaboraciones, oportunidades de aprendizaje y proyectos interesantes!  
 Puedes escribirme a [robertogomezlopez2005@gmail.com](mailto:robertogomezlopez2005@gmail.com)  
